@@ -4,10 +4,12 @@ def map()
 end
 
 def map_2_negative()
+  map = [1,2,3,4]
 map_2_negative = map *(-1)
 end
 
-def reduce()
+def reduce() 
+  map = [1,2,3,4]
   red = map[0]+map[1]+map[2]
 end
 def general 
