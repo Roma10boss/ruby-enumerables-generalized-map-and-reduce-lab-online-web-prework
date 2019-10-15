@@ -12,7 +12,7 @@ def reduce()
   map = [1,2,3,4]
   reduce == map[0]+map[1]+map[2]+map[3]
 end
-def general 
+
   puts map_2_negative
    puts reduce
  end
