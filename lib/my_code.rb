@@ -13,3 +13,4 @@ end
 def general 
   puts map_2_negative
    puts red
+ end
